@@ -1,0 +1,12 @@
+*.ipch
+*.ANSWER
+*.obj
+*.exe
+*.pdb
+*.log
+*.sdf
+*.user
+.vs/
+Debug/
+Release/
+data/
