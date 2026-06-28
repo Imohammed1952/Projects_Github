@@ -1,0 +1,57 @@
+# ============================
+# CMake
+# ============================
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+compile_commands.json
+
+# Generated build system files
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+rules.ninja
+
+# Visual Studio / MSVC
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# Debug/Release folders
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# Logs
+*.log
