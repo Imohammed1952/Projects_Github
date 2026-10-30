@@ -1,0 +1,27 @@
+{
+  "merchant": "KROGER #512",
+  "transaction_date": "2026-09-10",
+  "subtotal_cents": 817,
+  "tax_cents": 58,
+  "total_cents": 875,
+  "currency": null,
+  "payment_method": "VISA",
+  "payment_last_four": "4242",
+  "items": [
+    {
+      "description": "BANANAS",
+      "quantity": null,
+      "total_cents": 189
+    },
+    {
+      "description": "MILK",
+      "quantity": null,
+      "total_cents": 379
+    },
+    {
+      "description": "BREAD",
+      "quantity": null,
+      "total_cents": 249
+    }
+  ]
+}

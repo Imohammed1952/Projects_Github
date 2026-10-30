@@ -1,0 +1,8 @@
+COFFEE HOUSE
+
+LATTE               $5.25
+BLUEBERRY MUFFIN    $3.50
+
+TOTAL               $8.75
+
+THANK YOU

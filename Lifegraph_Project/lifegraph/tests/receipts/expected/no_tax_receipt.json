@@ -1,0 +1,27 @@
+{
+  "merchant": "FARMERS MARKET",
+  "transaction_date": "2026-09-11",
+  "subtotal_cents": 950,
+  "tax_cents": null,
+  "total_cents": 950,
+  "currency": null,
+  "payment_method": "CASH",
+  "payment_last_four": null,
+  "items": [
+    {
+      "description": "TOMATOES",
+      "quantity": null,
+      "total_cents": 400
+    },
+    {
+      "description": "CUCUMBERS",
+      "quantity": null,
+      "total_cents": 250
+    },
+    {
+      "description": "BASIL",
+      "quantity": null,
+      "total_cents": 300
+    }
+  ]
+}

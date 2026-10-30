@@ -1,0 +1,22 @@
+{
+  "merchant": "WALMART SUPERCENTER #1234",
+  "transaction_date": null,
+  "subtotal_cents": null,
+  "tax_cents": null,
+  "total_cents": null,
+  "currency": null,
+  "payment_method": "VISA",
+  "payment_last_four": "9876",
+  "items": [
+    {
+      "description": "MILK",
+      "quantity": null,
+      "total_cents": 349
+    },
+    {
+      "description": "BREAD",
+      "quantity": null,
+      "total_cents": 299
+    }
+  ]
+}

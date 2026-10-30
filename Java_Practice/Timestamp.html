@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Timestamp</title>
+    </head>
+    <body>
+        <button type="button" onclick="showTimestamp()">
+        Click me to show timestamp
+        </button>
+
+        <p id="demo"></p>   
+
+        <script>
+            function showTimeStamp() {
+                document.getElementById("demo").innerHTML = Date.now();
+            }
+        </script>
+    </body>
+</html>

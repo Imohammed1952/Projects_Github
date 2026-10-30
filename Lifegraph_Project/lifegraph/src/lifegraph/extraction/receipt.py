@@ -34,6 +34,7 @@ def extract_receipt(receipt_text: str, model: str = DEFAULT_MODEL) -> Receipt:
                 "require_parameters": True,
             }
         },
+        max_tokens=300,
     )
 
     raw_json = response.choices[0].message.content

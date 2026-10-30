@@ -39,7 +39,7 @@ response = client.chat.completions.create(
     ],
     max_tokens=300,
     response_format={
-        "type": "json_scheme"
+        "type": "json_schema"
     }
 )
 

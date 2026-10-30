@@ -4,7 +4,7 @@
   "subtotal_cents": 1077,
   "tax_cents": 86,
   "total_cents": 1163,
-  "currency": "USD",
+  "currency": null,
   "payment_method": "VISA",
   "payment_last_four": "1234",
   "items": [

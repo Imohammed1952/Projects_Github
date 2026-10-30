@@ -1,0 +1,22 @@
+{
+  "merchant": "COFFEE HOUSE",
+  "transaction_date": null,
+  "subtotal_cents": null,
+  "tax_cents": null,
+  "total_cents": 875,
+  "currency": null,
+  "payment_method": null,
+  "payment_last_four": null,
+  "items": [
+    {
+      "description": "LATTE",
+      "quantity": null,
+      "total_cents": 525
+    },
+    {
+      "description": "BLUEBERRY MUFFIN",
+      "quantity": null,
+      "total_cents": 350
+    }
+  ]
+}

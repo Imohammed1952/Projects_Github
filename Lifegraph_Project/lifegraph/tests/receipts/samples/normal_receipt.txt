@@ -1,0 +1,15 @@
+KROGER #512
+123 MAIN STREET
+MURFREESBORO, TN
+
+09/10/2026
+
+BANANAS            $1.89
+MILK               $3.79
+BREAD              $2.49
+
+SUBTOTAL           $8.17
+TAX                $0.58
+TOTAL              $8.75
+
+VISA ****4242

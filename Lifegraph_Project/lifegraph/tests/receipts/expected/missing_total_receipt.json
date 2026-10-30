@@ -1,0 +1,22 @@
+{
+  "merchant": "TARGET T-1287",
+  "transaction_date": "2026-09-08",
+  "subtotal_cents": 1148,
+  "tax_cents": 106,
+  "total_cents": null,
+  "currency": null,
+  "payment_method": "MASTERCARD",
+  "payment_last_four": "9911",
+  "items": [
+    {
+      "description": "SHAMPOO",
+      "quantity": null,
+      "total_cents": 699
+    },
+    {
+      "description": "TOOTHPASTE",
+      "quantity": null,
+      "total_cents": 449
+    }
+  ]
+}

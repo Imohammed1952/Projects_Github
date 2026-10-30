@@ -1,0 +1,11 @@
+TARGET T-1287
+
+09/08/2026
+
+SHAMPOO            $6.99
+TOOTHPASTE         $4.49
+
+SUBTOTAL          $11.48
+TAX                $1.06
+
+MASTERCARD ****9911

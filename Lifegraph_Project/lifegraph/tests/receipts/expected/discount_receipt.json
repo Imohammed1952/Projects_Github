@@ -1,0 +1,27 @@
+{
+  "merchant": "HOME DEPOT #0734",
+  "transaction_date": "2026-09-05",
+  "subtotal_cents": 5745,
+  "tax_cents": 472,
+  "total_cents": 5717,
+  "currency": null,
+  "payment_method": "VISA",
+  "payment_last_four": "1234",
+  "items": [
+    {
+      "description": "PAINT BRUSH",
+      "quantity": null,
+      "total_cents": 897
+    },
+    {
+      "description": "PAINTER TAPE",
+      "quantity": null,
+      "total_cents": 648
+    },
+    {
+      "description": "INTERIOR PAINT",
+      "quantity": null,
+      "total_cents": 4200
+    }
+  ]
+}
